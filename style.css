@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    padding: 16px;
+}
+
+h2{
+    padding: 16px;
+}
+
+.form {
+    padding: 8px;
+    font-weight: bolder;
+}
+
+button {
+    padding: 8px;
+    margin-left: 62px;
+}
+
